@@ -32,7 +32,7 @@ Join our growing community to stay updated, ask questions, and share your experi
 - Explore the [Dev Center](https://docs.myop.dev)
 - Follow our [LinkedIn](https://www.linkedin.com/company/myop-dev)
 - Join the [Discord Server](https://discord.com/invite/vxgD7AyXhM)
-- or contact us [by mail](mailto://contact@myop.dev)
+- or contact us [by Mail](mailto://contact@myop.dev)
 
 We welcome contributions and feedback from the community.
 If you're interested in contributing, let's talk.
