@@ -18,7 +18,6 @@ Myop makes web applications entirely flexible, allowing for remote interface upd
  - **Open-Source SDKs**: Our SDKs connect your application logic with dynamically chosen user interfaces, simplifying UI/UX experimentation without deployments.
 
 ## Getting started
-## Getting started
 
 | [<img src="docs/images/react.png" width="48">](https://docs.myop.dev) | [<img src="docs/images/vue.png" width="48">](https://docs.myop.dev) | [<img src="docs/images/angular.png" width="48">](https://docs.myop.dev) |
 |:--:|:--:|:--:|
