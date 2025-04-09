@@ -20,8 +20,8 @@ Myop makes web applications entirely flexible, allowing for remote interface upd
 ## Getting started
 
 | [<img src="docs/images/react.png" width="48">](https://docs.myop.dev) | [<img src="docs/images/vue.png" width="48">](https://docs.myop.dev) | [<img src="docs/images/angular.png" width="48">](https://docs.myop.dev) |
-|:--:|:--:|:--:|
-| [React Usage Examples](https://docs.myop.dev) | [Vue Usage Examples](https://docs.myop.dev) | [Angular Usage Examples](https://docs.myop.dev) |
+|:---------------------------------------------------------------------:|:--:|:--:|
+|           WIP [React Usage Examples](https://docs.myop.dev)           | [Vue Usage Examples](https://github.com/myopjs/vue-myop-demos) | [Angular Usage Examples](https://github.com/myopjs/angular-myop-demos) |
 
 For detailed documentation and examples, please visit our official website.
 
