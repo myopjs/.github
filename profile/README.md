@@ -6,7 +6,8 @@ Our mission is to revolutionize UI development by providing tools that allow dev
 With Myop, you can achieve unparalleled flexibility and control over your application's UI/UX.
 
 ## What is Myop?
-Myop is an innovative meta-framework & developer platform that transforms how user interfaces and experiences are built, managed, and deployed.
+Myop is an innovative meta-framework and developer platform that connects AI-generated or handcrafted UIs directly to React, Vue, Angular, or any stack, transforming how interfaces are built, managed, and deployed.
+
 It offers full control over UI/UX remotely and in real-time while the code is running.
 Myop makes web applications entirely flexible, allowing for remote interface updates with built-in A/B testing, segmentation, and personalization capabilities.
 
